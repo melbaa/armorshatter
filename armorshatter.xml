@@ -1,0 +1,17 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.blizzard.com/wow/ui/">
+	<Script file="armorshatter.lua"/>
+	<Frame name="ARMORSHATTER_Frame" parent="UIParent" hidden="false">
+		<Scripts>
+			<OnLoad>
+				ARMORSHATTER_OnLoad();
+			</OnLoad>
+			<OnEvent>
+				ARMORSHATTER_OnEvent();
+			</OnEvent>
+			<OnUpdate>
+				ARMORSHATTER_OnUpdate();
+			</OnUpdate>
+		</Scripts>
+	</Frame>
+</Ui>

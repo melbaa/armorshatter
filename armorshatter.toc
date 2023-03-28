@@ -1,0 +1,11 @@
+## Interface: 11200
+## Title: armorshatter
+## Author: melba
+## Version: 1
+## Notes: 
+## Dependencies: 
+## OptionalDeps: 
+## SavedVariablesPerCharacter: 
+## SavedVariables: 
+armorshatter.xml
+armorshatter.lua
